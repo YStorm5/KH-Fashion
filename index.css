@@ -1,0 +1,32 @@
+.card-body a:hover{
+    text-decoration: none; 
+    color: rgb(28, 28, 235);
+}
+.card-body a{
+    color: black;
+}
+.card-body span{
+    color: black;
+}
+.navbar-toggler{
+    size: 100px !important;
+}
+.navbar{
+    
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    
+}
+.bg{
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+
+}
+textarea {
+    resize: none;
+  }
+
+@media only screen and (max-width: 768px){
+    .footerbg{
+        background: rgb(172,224,249);
+        background: linear-gradient(0deg, rgba(172,224,249,1) 0%, rgba(255,241,235,1) 100%);
+    }
+}
